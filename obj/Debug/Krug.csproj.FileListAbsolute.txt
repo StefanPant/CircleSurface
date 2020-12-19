@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Krug\Krug\obj\Debug\Krug.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Krug\Krug\obj\Debug\Krug.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Krug\Krug\bin\Debug\Krug.exe.config
+C:\Users\Stefan\source\repos\Krug\Krug\bin\Debug\Krug.exe
+C:\Users\Stefan\source\repos\Krug\Krug\bin\Debug\Krug.pdb
+C:\Users\Stefan\source\repos\Krug\Krug\obj\Debug\Krug.exe
+C:\Users\Stefan\source\repos\Krug\Krug\obj\Debug\Krug.pdb
